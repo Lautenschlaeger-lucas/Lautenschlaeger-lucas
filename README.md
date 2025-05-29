@@ -9,6 +9,7 @@ Hi! I'm Lucas, a rising full stack developer from Brazil.
   <a href="https://github.com/Lautenschlaeger-lucas">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lautenschlaeger-lucas&layout=compact&langs_count=7&theme=radical"/>
 </div>
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lautenschlaeger-lucas&show_icons=true&theme=radical&title_color=00bfff&icon_color=1e90ff&text_color=87cefa)
 
 # 💻 Tech Stack:
