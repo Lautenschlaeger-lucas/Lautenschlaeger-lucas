@@ -5,10 +5,7 @@ Hi! I'm Lucas, a rising full stack developer from Brazil.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luc__apenas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lautenschlaeger-pellegrinetti-01a1482b6/) 
 
-<div>
-  <a href="https://github.com/Lautenschlaeger-lucas">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lautenschlaeger-lucas&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lautenschlaeger-lucas&layout=compact&theme=radical&icon_color=ff4500&title_color=ff69b4&text_color=ffffff)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lautenschlaeger-lucas&show_icons=true&theme=radical&title_color=00bfff&icon_color=1e90ff&text_color=87cefa)
 
